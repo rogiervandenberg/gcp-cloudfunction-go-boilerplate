@@ -1,4 +1,4 @@
-# Sheet
+# GCP Cloud functions in Go Boilerplate
 
 Boilerplate for writing Cloud Functions in Go on Google Cloud Platform. Based on <https://github.com/GoogleCloudPlatform/functions-framework-go#functions-framework-for-go>
 
